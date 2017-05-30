@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Resumen Curricular</title>
-</head>
-<body>
-	<header>
-	<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
@@ -17,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="150px"
-   height="170px"
+   width="210mm"
+   height="297mm"
    viewBox="0 0 210 297"
    version="1.1"
    id="svg4996"
@@ -92,23 +84,3 @@
          style="stroke-width:0.62398243">Ramón Guevara</tspan></text>
   </g>
 </svg>
-	
-	<h1>Resumen Curricular</h1>
-	<h2>Ramon Alberto Guevara Suarez</h2>
-	<h3>Venezuela-Barinas 21/03/1989</h3>
-	</header>
-	<nav>
-		<ol>
-			<li> <a href="index.html">Inicio</a></li>
-			<li><a href="html/educacion.html">Educaión</a></li>
-			<li><a href="html/experiencia.html">Experiencia</a></li>
-		</ol>
-	</nav>
-	<section>
-		<article>
-			<h2>Información Personal</h2>
-			<img src="img/ramon_carnet.png" alt="Ramon Guevara, Venezuela-Barinas" title="Ramon Guevara, Venezuela-Barinas" width="250px">
-		</article>
-	</section>
-</body>
-</html>
